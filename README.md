@@ -6,4 +6,4 @@ Created through python and tkinter library
 
 1: Tkinter
 
-./Calculator_icon.ico
+Calculator_icon.ico
